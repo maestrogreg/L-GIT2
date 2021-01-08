@@ -2,7 +2,11 @@ body{
     box-sizing: border-box;
     background: white;
     font-family: 'Courier New', Courier, monospace;
+<<<<<<< HEAD
     font-size: 1rem;
+=======
+    background: white;
+>>>>>>> sub-branch4
 }
 p{
     font-size: 2rem;
