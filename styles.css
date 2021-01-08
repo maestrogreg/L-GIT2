@@ -2,6 +2,7 @@ body{
     box-sizing: border-box;
     background: white;
     font-family: 'Courier New', Courier, monospace;
+    background: white;
 }
 p{
     font-size: 2rem;
